@@ -1,7 +1,7 @@
 # Remote
-Remote PC Administration made in JAVA as part of the OOP subject
+Remote PC Administration made in JAVA as part of the OOP course
 
-### DISCLAIMER: This application sends screenshots periodically and is not optimized like other Remote PC Administration application so make sure you have a better internet connection.
+### DISCLAIMER: This application sends screenshots periodically and is not optimized like other Remote PC Administration applications so make sure you have a better internet connection.
 
 1. Compile both Server.java and Client.java
 
